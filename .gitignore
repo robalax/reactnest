@@ -1,0 +1,10 @@
+./backend/node_modules
+./frontend/node_modules
+
+./backend/yarn.lock
+./backend/package-lock.json
+
+./frontend/yarn.lock
+./frontend/package-lock.json
+
+.DS_Store
